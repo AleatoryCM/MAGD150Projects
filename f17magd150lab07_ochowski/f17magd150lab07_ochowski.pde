@@ -1,3 +1,5 @@
+//Bumper Cars
+
 /* @alecOchowski
    Section 03
    Tested & fully operational as of 10/31/2017. A few things could be a little better, such as the collision detection and applied acceleration / velocity, but for a first
