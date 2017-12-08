@@ -1,3 +1,5 @@
+//Kite Hunter
+
 /* @alecOchowski
    Section 03
    Tested & fully operational as of 10/24/2017 */
