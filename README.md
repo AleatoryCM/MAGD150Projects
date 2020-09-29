@@ -1,6 +1,6 @@
 # MAGD150Projects
 ## ReadMe File
-### @cassieAleatory
+### @cassAleatory
 
 Projects created for MAGD 150 @ UWW. Language: Processing [Java]
 
